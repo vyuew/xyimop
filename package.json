@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "powerdlz23": "^1.1.6"
+  },
+  "name": "@vyuew/xyimop",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vyuew/xyimop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vyuew/xyimop/issues"
+  },
+  "homepage": "https://github.com/vyuew/xyimop#readme"
+}
